@@ -1,14 +1,14 @@
 ---
-layout: cv
-title: Brigham Young's Resume
+layout: resume
+title: Mickey Rahm's Resume
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+# Mickey Rahm
+Aspiring Data Analyst 
 
 <div id="webaddress">
 <a href="datascience@byui.edu">datascience@byui.edu</a>
 | <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
+| <a href="https://www.linkedin.com/in/michael-rahm/">LinkedIn</a>
 | <a href="https://github.com/byuids-resumes">GitHub</a>
 </div>
 
@@ -16,74 +16,65 @@ The second prophet of The Church of Jesus Christ of Latter-day Saints.
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
+`2014-2018`
+__Coronado High School__, Coronado, CA
 
-- Full academic scholarship with 4.0 GPA
+- Graduated from Coronado High School
 
-`Expected 2029`
+`Expected 2025`
 __Brigham Young University - Idaho__, Rexburg, ID
 
-- 4.0 Major GPA
+- 3.85 Major GPA
 
 
 ## Related Experience
 
 ### Internships
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+`July 2023 - Current`
+__VIVBI Analytics__, Data Analyst
 
-### Data Science Lead
+Key Responsibilities Include:
 
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
+- Collect, clean, and preprocess large datasets to ensure data accuracy and reliability
+- Establish and enforce data quality standards to ensure the accuracy and reliability of information.
+- Develop visually appealing and informative dashboards and reports for stakeholders.
+- Communicate findings through data visualization tools, making complex data accessible to non-technical audiences.
+- Collaborate with cross-functional teams to understand data requirements and deliver tailored reports.
 
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
 
 `September 2027 - April 2028`
-__Good2Go__, Consultant
+__Credit Suite__, Data Analyst
 
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
-
-### Data Science Consulting Team
-
-`January 2027 - April 2027`
-__Imagine Learning__
-
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
+- Delivered reporting needs for Credit Suite
+- Developed datasets using ETL and SQL that were designed for possible future development
+- Reverse engineered complex data logic to understand how current datasets functioned and could be improved on
 
 
 ## Service and Work History
 
-`2025-2027`
-__Math Tutor__, LDSBC
+
+`2021-2023`
+__Service Missionary__, Puerto Rico
+
+- Spent two years in Puerto Rico & Saint Croix serving others
 
 
-`2023-2025`
-__Service Missionary__, South Africa
+## Awards
 
+`April, 2018`
+__Eagle Scout__ 
 
+- Awarded the rank of Eagle Scout
 
+## Skills
+- Programming: SQL, R, Python, Excel
+- Language: Fluent in English and Spanish
+- Other: Driven, detail oriented, punctual, time management
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: Dec 2023 -->
 
+<!-- git pull, git add., git commit -m "message", git push
 
